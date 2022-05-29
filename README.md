@@ -128,7 +128,7 @@
 
     <p>
       <img
-        align="left"
+        align='center'
         src="https://github-readme-stats.vercel.app/api/top-langs?username=f0955710119&show_icons=true&locale=en&layout=compact"
         alt="f0955710119"
       />
@@ -136,7 +136,7 @@
 
     <p>
      <img
-        align="center"
+        align='center'
         src="https://github-readme-stats.vercel.app/api?username=f0955710119&show_icons=true&locale=en"
         alt="f0955710119"
       />
